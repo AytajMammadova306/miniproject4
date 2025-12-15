@@ -1,9 +1,15 @@
-﻿<!DOCTYPE html>
+﻿@using MiniProject.Services.Interfaces
+@inject ILayoutService layoutService;
+@{
+    Dictionary<string, string> settings = await layoutService.GetSettingAsync();
+}
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
-    <title>MultiShop - Online Shop Website Template</title>
+    <title>@settings["brand"]Shop - Online Shop Website Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -43,8 +49,17 @@
                     <div class="btn-group">
                         <button type="button" class="btn btn-sm btn-light dropdown-toggle" data-toggle="dropdown">My Account</button>
                         <div class="dropdown-menu dropdown-menu-right">
-                            <button class="dropdown-item" type="button">Sign in</button>
-                            <button class="dropdown-item" type="button">Sign up</button>
+                            @if(User.Identity.IsAuthenticated)
+                            {
+                                <button class="dropdown-item" type="button">@User.Identity.Name</button>
+                                <button class="dropdown-item" type="button" asp-controller="account" asp-action="logout" asp-route-returnurl="@Context.Request.Path">Log out</button>
+                            }
+                            else
+                            {
+                                <button class="dropdown-item" asp-controller="account" asp-action="login" asp-route-returnurl="@Context.Request.Path">Login</button>
+                                <button class="dropdown-item" asp-controller="account" asp-action="register" asp-route-returnurl="@Context.Request.Path">Login</button>
+                            }
+
                         </div>
                     </div>
                     <div class="btn-group mx-2">
@@ -79,7 +94,7 @@
         <div class="row align-items-center bg-light py-3 px-xl-5 d-none d-lg-flex">
             <div class="col-lg-4">
                 <a href="" class="text-decoration-none">
-                    <span class="h1 text-uppercase text-primary bg-dark px-2">Multi</span>
+                    <span class="h1 text-uppercase text-primary bg-dark px-2">@settings["brand"]</span>
                     <span class="h1 text-uppercase text-dark bg-primary px-2 ml-n1">Shop</span>
                 </a>
             </div>
@@ -97,7 +112,7 @@
             </div>
             <div class="col-lg-4 col-6 text-right">
                 <p class="m-0">Customer Service</p>
-                <h5 class="m-0">+012 345 6789</h5>
+                <h5 class="m-0">+@settings["tel"]</h5>
             </div>
         </div>
     </div>
@@ -135,7 +150,7 @@
             <div class="col-lg-9">
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-0">
                     <a href="" class="text-decoration-none d-block d-lg-none">
-                        <span class="h1 text-uppercase text-dark bg-light px-2">Multi</span>
+                        <span class="h1 text-uppercase text-dark bg-light px-2">@settings["tel"]</span>
                         <span class="h1 text-uppercase text-light bg-primary px-2 ml-n1">Shop</span>
                     </a>
                     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
@@ -179,9 +194,9 @@
             <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
                 <h5 class="text-secondary text-uppercase mb-4">Get In Touch</h5>
                 <p class="mb-4">No dolore ipsum accusam no lorem. Invidunt sed clita kasd clita et et dolor sed dolor. Rebum tempor no vero est magna amet no</p>
-                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>123 Street, New York, USA</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>@settings["address"]</p>
                 <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
-                <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+                <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+@settings["tel"]</p>
             </div>
             <div class="col-lg-8 col-md-12">
                 <div class="row">

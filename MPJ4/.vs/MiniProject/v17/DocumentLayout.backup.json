@@ -1,74 +1,182 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\services\\implementations\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\implementations\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\services\\interfaces\\ilayoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\services\\interfaces\\ilayoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\utilities\\extentions\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\utilities\\extentions\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\viewmodels\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewmodels\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\viewmodels\\product\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewmodels\\product\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\viewmodels\\product\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewmodels\\product\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\viewmodels\\category\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\viewmodels\\category\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\utilities\\enums\\filesizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\utilities\\enums\\filesizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\academy\\hw\\miniproject\\miniproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|c:\\users\\user\\desktop\\miniproject4-git\\mpj4\\miniproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925CF9E-DDDF-4B4C-9073-D6D712FBA34F}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +186,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,102 +194,297 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MiniProject\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "MiniProject\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Services\\Implementations\\LayoutService.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\Implementations\\LayoutService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Services\\Implementations\\LayoutService.cs",
+              "RelativeToolTip": "MiniProject\\Services\\Implementations\\LayoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T17:26:27.073Z",
+              "WhenOpened": "2025-12-15T13:35:04.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "MiniProject\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Models\\Category.cs",
-              "RelativeToolTip": "MiniProject\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Title": "ILayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Services\\Interfaces\\ILayoutService.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Services\\Interfaces\\ILayoutService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Services\\Interfaces\\ILayoutService.cs",
+              "RelativeToolTip": "MiniProject\\Services\\Interfaces\\ILayoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T17:19:15.155Z",
+              "WhenOpened": "2025-12-15T13:34:14.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T16:19:23.474Z",
+              "DocumentIndex": 8,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Models\\Setting.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:19:58.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAHkBAAAAAAAAAAAawIUBAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T16:13:32.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAawBMAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvxcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-12T16:12:14.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T15:21:15.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Program.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Program.cs",
+              "RelativeToolTip": "MiniProject\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:07:45.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T13:07:44.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MiniProject\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:42:53.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MiniProject\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MiniProject\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:26:27.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T12:47:22.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "MiniProject\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:41:20.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "MiniProject\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:41:10.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAEkBAAAAAAAAAADgv1EBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T16:13:32.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Shop\\Details.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T15:57:40.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Utilities\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Utilities\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Utilities\\Enums\\UserRole.cs",
+              "RelativeToolTip": "MiniProject\\Utilities\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:43:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Models\\AppUser.cs",
+              "RelativeToolTip": "MiniProject\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:33:34.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAKoAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T16:11:39.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Models\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "MiniProject\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Models\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "MiniProject\\Models\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T16:07:47.967Z",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T19:22:13.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T11:14:24.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Utilities\\Extentions\\PathHelper.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Utilities\\Extentions\\PathHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Utilities\\Extentions\\PathHelper.cs",
+              "RelativeToolTip": "MiniProject\\Utilities\\Extentions\\PathHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:19:56.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Utilities\\Extentions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Utilities\\Extentions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Utilities\\Extentions\\FileValidator.cs",
+              "RelativeToolTip": "MiniProject\\Utilities\\Extentions\\FileValidator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:19:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiniProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:19:42.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MiniProject\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Models\\Product.cs",
               "RelativeToolTip": "MiniProject\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,119 +493,275 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Views\\Shop\\Details.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Shop\\Details.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Views\\Shop\\Details.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Shop\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T15:57:40.87Z",
+              "WhenOpened": "2025-12-15T05:36:11.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAawKMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T15:51:07.873Z",
+              "DocumentIndex": 19,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Product\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewModels\\Product\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Product\\UpdateProductVM.cs",
+              "RelativeToolTip": "MiniProject\\ViewModels\\Product\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:11:38.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Product\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewModels\\Product\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Product\\CreateProductVM.cs",
+              "RelativeToolTip": "MiniProject\\ViewModels\\Product\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T05:22:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T16:13:46.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:02:08.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T16:19:23.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Category\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewModels\\Category\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Category\\GetCategoryVM.cs",
+              "RelativeToolTip": "MiniProject\\ViewModels\\Category\\GetCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:06:33.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Controllers\\ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "MiniProject\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Controllers\\ShopController.cs",
               "RelativeToolTip": "MiniProject\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wCcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T15:50:20.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Program.cs",
-              "RelativeDocumentMoniker": "MiniProject\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Program.cs",
-              "RelativeToolTip": "MiniProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "DetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\DetailsVM.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewModels\\DetailsVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\DetailsVM.cs",
+              "RelativeToolTip": "MiniProject\\ViewModels\\DetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T15:07:45.577Z",
+              "WhenOpened": "2025-12-14T20:44:44.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\appsettings.json",
-              "RelativeDocumentMoniker": "MiniProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\appsettings.json",
-              "RelativeToolTip": "MiniProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-12T15:40:13.801Z",
+              "DocumentIndex": 32,
+              "Title": "GetProductAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Product\\GetProductAdminVM.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewModels\\Product\\GetProductAdminVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Product\\GetProductAdminVM.cs",
+              "RelativeToolTip": "MiniProject\\ViewModels\\Product\\GetProductAdminVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:29:06.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 33,
+              "Title": "GetProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Product\\GetProductVM.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewModels\\Product\\GetProductVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Product\\GetProductVM.cs",
+              "RelativeToolTip": "MiniProject\\ViewModels\\Product\\GetProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:06:20.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAADgv18AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T15:04:09.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAawBIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAAOoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-12T15:22:21.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 36,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "MiniProject\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:38:12.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Models\\Category.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:19:15.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProject\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "MiniProject\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAYwLEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T15:51:07.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetCategoryAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Category\\GetCategoryAdminVM.cs",
+              "RelativeDocumentMoniker": "MiniProject\\ViewModels\\Category\\GetCategoryAdminVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\ViewModels\\Category\\GetCategoryAdminVM.cs",
+              "RelativeToolTip": "MiniProject\\ViewModels\\Category\\GetCategoryAdminVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:25:58.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FileSizes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Utilities\\Enums\\FileSizes.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Utilities\\Enums\\FileSizes.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Utilities\\Enums\\FileSizes.cs",
+              "RelativeToolTip": "MiniProject\\Utilities\\Enums\\FileSizes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:21:52.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:07:47.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\appsettings.json",
+              "RelativeToolTip": "MiniProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T15:40:13.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MiniProject\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Miniproject4-git\\MPJ4\\MiniProject\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "MiniProject\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-12T15:21:36.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MiniProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MiniProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAawAMBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T15:21:15.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MiniProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\MiniProject\\MiniProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MiniProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T15:19:42.352Z",
               "EditorCaption": ""
             }
           ]
